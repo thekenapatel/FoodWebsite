@@ -1,6 +1,6 @@
 # 🍔 Food Website
 
-A modern and responsive **Food & Restaurant** website built using **HTML**, **CSS**, and **JavaScript**. 
+A modern and responsive **Food & Restaurant** website built using **HTML**, **CSS**, and **JavaScript**. <br/>
 This project features a visually rich layout that highlights delicious meals, restaurant sections, and a user-friendly interface — perfect for showcasing a real or fictional food business.
 
 ---
@@ -23,7 +23,6 @@ This project features a visually rich layout that highlights delicious meals, re
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 
 ---
 
